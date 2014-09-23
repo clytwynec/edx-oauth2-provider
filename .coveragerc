@@ -1,0 +1,8 @@
+[run]
+branch = True
+source = oauth2_provider
+omit =
+    **/__init__.py
+    **/tests/*
+    **/test_*.py
+    **/migrations/*
